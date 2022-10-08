@@ -61,7 +61,13 @@
 		"usingComponents": true
 	},
 	"mp-alipay" : {
-        "usingComponents" : true
+        "usingComponents" : true,
+				"plugins": {
+					"adPlugin": {
+						"version": "*",
+						"provider": "2021001154677005"
+					}
+				}
     },
     "mp-baidu" : {
         "usingComponents" : true

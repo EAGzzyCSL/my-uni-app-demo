@@ -3,6 +3,7 @@
 		<image class="logo" src="/static/logo.png"></image>
 		<view>
 			<text class="title">{{title}}</text>
+			<ad-list resourceId="AD_20211201000000101279" />
 		</view>
 	</view>
 </template>
